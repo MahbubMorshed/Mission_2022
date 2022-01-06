@@ -1,0 +1,99 @@
+body {
+  font-family: "Lato", "Roboto Slab", "Moon Dance", sans-serif;
+  margin: 0;
+}
+section {
+  display: flex;
+  margin-bottom: 50px;
+}
+h1 {
+  font-size: 30px;
+}
+span {
+  color: #e74c3c;
+}
+footer {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  padding: 25px;
+  margin: 0;
+}
+footer h3 {
+  margin: 0;
+}
+.imagePosition {
+  padding-left: 20%;
+}
+.textPosition {
+  padding-right: 20%;
+}
+.section2 {
+  padding-left: 8%;
+}
+.my-mission {
+  text-align: center;
+  margin: 0;
+}
+.second-font {
+  font-family: "Roboto Slab";
+  font-size: 50px;
+}
+
+.third-font {
+  font-family: "Moon Dance";
+  font-size: 30px;
+}
+.half-width {
+  width: 50%;
+  padding: 5%;
+  padding-left: 10%;
+}
+.half-width img {
+  width: 50%;
+}
+
+.half-width2 {
+  width: 100%;
+  margin: 0%;
+}
+.half-width2 img {
+  width: 70%;
+}
+.oneThird-width1 {
+  width: 25%;
+  margin: 1%;
+  padding: 2%;
+  border-radius: 10px;
+  background-color: antiquewhite;
+}
+.oneThird-width1 img {
+  width: 30%;
+}
+.oneThird-width2 {
+  width: 25%;
+  margin: 1%;
+  padding: 2%;
+  border-radius: 10px;
+  background-color: blueviolet;
+}
+.oneThird-width2 img {
+  width: 30%;
+}
+.oneThird-width3 {
+  width: 25%;
+  margin: 1%;
+  padding: 2%;
+  border-radius: 10px;
+  background-color: antiquewhite;
+}
+.oneThird-width3 img {
+  width: 30%;
+}
+.link-button {
+  text-decoration: none;
+  background-color: #2ecc71;
+  color: #ecf0f1;
+  padding: 7px 25px;
+  border-radius: 5px;
+}
