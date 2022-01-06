@@ -38,6 +38,8 @@ footer h3 {
 .second-font {
   font-family: "Roboto Slab";
   font-size: 50px;
+  padding-left: 10px;
+  border-left: 3px solid #e74c3c;
 }
 
 .third-font {
